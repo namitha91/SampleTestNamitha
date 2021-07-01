@@ -1,0 +1,17 @@
+
+public class EmployeeEquals {
+	
+	int empId;
+	String empname;
+	public EmployeeEquals(String name) {
+		empname=name;
+	}
+	
+
+public static void main(String[] args) {
+	EmployeeEquals e1=new EmployeeEquals("tom");
+	EmployeeEquals e2=new EmployeeEquals("tom");
+	System.out.println(e1.equals(e1));
+	
+}
+}

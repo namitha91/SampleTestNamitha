@@ -1,0 +1,8 @@
+
+public class HashcodeEquals {
+
+	
+	private String pen;
+	private int  color;
+	
+}

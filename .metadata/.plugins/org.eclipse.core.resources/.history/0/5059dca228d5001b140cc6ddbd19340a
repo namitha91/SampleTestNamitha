@@ -1,0 +1,17 @@
+package com.amazon;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class RemoveDupCharInString {
+	public static void main(String[] args) {
+		String s="abbagaba";
+		Set<String> uniqueStirng=new HashSet<String>();
+		char[] cArray=s.toCharArray();
+		for (char c : cArray) {
+			uniqueStirng.add(c);
+		}
+		
+	}
+
+}

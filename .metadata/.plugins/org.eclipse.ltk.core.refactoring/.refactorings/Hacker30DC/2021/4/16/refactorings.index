@@ -1,0 +1,5 @@
+1618127022549	Extract local variable 'array'
+1618127245705	Extract local variable 'collect'
+1618133756210	Extract local variable 'entrySet'
+1618173475338	Extract local variable 'length'
+1618243782342	Delete element

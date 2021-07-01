@@ -1,0 +1,14 @@
+1619860686412	Move compilation unit
+1619861809088	Copy compilation unit
+1619883470823	Extract local variable 'min'
+1619894622381	Extract local variable 'sum'
+1619894689998	Extract local variable 'count'
+1619894790283	Extract local variable 'summaryStatistics'
+1619894917959	Extract local variable 'average'
+1619894931628	Extract local variable 'max'
+1619894936385	Extract local variable 'min2'
+1619894943622	Extract local variable 'sum2'
+1619897089898	Extract local variable 'anyMatch'
+1619897096794	Extract local variable 'allMatch'
+1619897107037	Extract local variable 'collect'
+1619897114196	Extract local variable 'array'

@@ -1,0 +1,22 @@
+package com.amazon;
+
+import java.util.LinkedList;
+import java.util.Queue;
+
+class Node{
+	int d;
+	Node next;
+	Node(int data) {
+		d=data;
+		next=null;
+	}
+}
+public class RotateAntiClock {
+	
+	public static void  main(String[] args) {
+		Queue<Integer> l=new LinkedList<Integr>();
+		l.add(10);
+		
+	}
+
+}
